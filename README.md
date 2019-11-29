@@ -1,7 +1,7 @@
 # PySpacyDemo
 This is demo for extracting named entities from text using Spacy library.
 
-<h2> Intial Screen </h2>
+<h2> Initial Screen </h2>
 
 <img src='01.png'/>
 
